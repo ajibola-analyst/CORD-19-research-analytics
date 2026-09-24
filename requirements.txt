@@ -1,0 +1,10 @@
+pandas
+kaggle
+matplotlib
+plotly
+wordcloud
+nltk
+scikit-learn
+bertopic
+umap-learn
+streamlit

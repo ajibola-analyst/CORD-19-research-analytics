@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/metadata.csv
+data/metadata.csv.zip
+data/metadata_clean.csv
+metadata.csv.zip
