@@ -22,7 +22,7 @@ science keep up with the pandemic, did it move faster than peer review could ver
 did research attention go as the emergency evolved, and did openness in science hold up under
 pressure.
 
-**[Try the live app →](https://YOUR-APP-LINK.streamlit.app)**
+**[Try the live app →](#)** [Streamlit App](https://cord-19-research-analytics.streamlit.app/)
 
 ---
 
